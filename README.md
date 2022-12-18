@@ -1,3 +1,4 @@
+#  About me:
 📌 Former PO/PM back into Software Development<br>📚 React, TypeScript, Ruby on Rails
 
 
